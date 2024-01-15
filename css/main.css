@@ -35,3 +35,7 @@ header ul {
 header ul li a {
     color: black;
 }
+
+a.active {
+    text-decoration: underline;
+}
