@@ -97,4 +97,5 @@ section.features svg {
 section.features strong {
     display: flex;
     flex-direction: column;
+    font-size: 2.6rem;
 }
