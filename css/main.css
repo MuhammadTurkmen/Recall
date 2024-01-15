@@ -88,3 +88,7 @@ section.features .wrapper ul {
     gap: 3em;
     padding: 5em 0 10em;
 }
+
+section.features svg {
+    width: 3.5rem;
+}
