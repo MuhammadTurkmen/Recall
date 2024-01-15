@@ -98,4 +98,5 @@ section.features strong {
     display: flex;
     flex-direction: column;
     font-size: 2.6rem;
+    gap: .2em;
 }
