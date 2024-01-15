@@ -85,4 +85,5 @@ section.features .wrapper {
 section.features .wrapper ul {
     display: flex;
     flex-direction: column;
+    gap: 3em;
 }
