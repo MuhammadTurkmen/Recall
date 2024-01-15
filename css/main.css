@@ -100,3 +100,9 @@ section.features strong {
     font-size: 2.6rem;
     gap: .2em;
 }
+
+/* Testimonials section */
+
+h2 {
+    font-size: 2.8rem;
+}
