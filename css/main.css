@@ -39,3 +39,9 @@ header ul li a {
 a.active {
     text-decoration: underline;
 }
+
+/* Hero Section */
+
+section.hero {
+    text-align: center;
+}
