@@ -23,4 +23,5 @@ body {
 
 a.logo {
     color: var(--primary-color);
+    font-weight: bold;
 }
