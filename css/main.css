@@ -55,3 +55,7 @@ h1 {
 p.subhead {
     font-size: 2rem;
 }
+
+.cta-btns {
+    display: flex;
+}
