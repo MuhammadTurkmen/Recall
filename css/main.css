@@ -66,4 +66,6 @@ p.subhead {
 .phone {
     width: 90%;
     margin-top: 5em;
+    position: relative;
+    z-index: 2;
 }
