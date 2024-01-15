@@ -45,3 +45,7 @@ a.active {
 section.hero {
     text-align: center;
 }
+
+h1 {
+    font-size: 3.2rem;
+}
