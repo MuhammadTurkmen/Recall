@@ -82,6 +82,7 @@ section.features .wrapper {
     transform: skewY(-12deg);
 }
 
-.section.features .wrapper ul {
+section.features .wrapper ul {
     display: flex;
+    flex-direction: column;
 }
