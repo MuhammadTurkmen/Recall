@@ -78,6 +78,10 @@ section.features {
     transform: skewY(12deg) translateY(-8em);
 }
 
-.section.features .wrapper {
+section.features .wrapper {
     transform: skewY(-12deg);
+}
+
+.section.features .wrapper ul {
+    display: flex;
 }
