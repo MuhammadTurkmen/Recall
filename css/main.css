@@ -93,3 +93,7 @@ section.features svg {
     width: 3.5rem;
     margin: -.15em;
 }
+
+section.features strong {
+    display: flex;
+}
