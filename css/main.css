@@ -86,4 +86,5 @@ section.features .wrapper ul {
     display: flex;
     flex-direction: column;
     gap: 3em;
+    padding: 5em 0 10em;
 }
