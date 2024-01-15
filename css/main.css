@@ -71,3 +71,7 @@ p.subhead {
 }
 
 /* Features Section */
+
+section.features {
+    background: var(--primary-color);
+}
