@@ -24,4 +24,5 @@ body {
 a.logo {
     color: var(--primary-color);
     font-weight: bold;
+    font-size: 2.8rem;
 }
