@@ -74,4 +74,5 @@ p.subhead {
 
 section.features {
     background: var(--primary-color);
+    color: white;
 }
