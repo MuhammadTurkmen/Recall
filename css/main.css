@@ -91,4 +91,5 @@ section.features .wrapper ul {
 
 section.features svg {
     width: 3.5rem;
+    margin: -.15em;
 }
