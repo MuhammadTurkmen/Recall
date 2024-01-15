@@ -48,4 +48,6 @@ section.hero {
 
 h1 {
     font-size: 3.2rem;
+    margin-top: 2em;
+    margin-bottom: .5em;
 }
