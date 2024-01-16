@@ -252,4 +252,8 @@ nav.secondary-nav ul li a {
         left: 10%;
     }
 
+    section.features .wrapper ul {
+        display: grid;
+    }
+    
 }
