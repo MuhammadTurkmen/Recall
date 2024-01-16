@@ -330,4 +330,12 @@ nav.secondary-nav ul li a {
    section.features:before {
         left: 20%;
    }
+
+   /* Testimonials section */
+
+   .testimonial {
+        display: flex;
+   }
+
 }
+
