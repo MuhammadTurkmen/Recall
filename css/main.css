@@ -322,4 +322,8 @@ nav.secondary-nav ul li a {
         grid-column: auto;
         align-self: flex-end;
    }
+
+   section.features .wrapper ul li:nth-of-type(2) {
+    align-self: center;
+   }
 }
