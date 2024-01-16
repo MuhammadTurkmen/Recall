@@ -134,8 +134,8 @@ h2 {
 }
 
 .instagram, .twitter {
-    width: 27px;
-    height: 27px;
+    width: 3rem;
+    height: 3rem;
     object-fit: cover;
 }
 
