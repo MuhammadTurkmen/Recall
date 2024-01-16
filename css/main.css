@@ -298,4 +298,9 @@ nav.secondary-nav ul li a {
        max-width: 1000px;
        margin: 2em  auto;
    }
+
+   .phone {
+        width: 500px;
+        left: -100px;
+   }
   }
