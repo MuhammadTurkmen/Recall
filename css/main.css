@@ -324,6 +324,10 @@ nav.secondary-nav ul li a {
    }
 
    section.features .wrapper ul li:nth-of-type(2) {
-    align-self: center;
+        align-self: center;
+   }
+
+   section.features:before {
+        left: 20%;
    }
 }
