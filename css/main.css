@@ -294,5 +294,5 @@ nav.secondary-nav ul li a {
 
 
 @media only screen and (min-width: 950px) {  
-
+    max-width: 1000px;
   }
