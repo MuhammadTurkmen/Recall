@@ -108,7 +108,9 @@ h2 {
     font-family: 'playfair Display', serif;
     font-weight: 300;
 }
-
+.testimonials-quote p {
+    
+}
 .testimonials-quote p {
     margin-bottom: 2em;
 }
@@ -122,3 +124,6 @@ h2 {
     margin-bottom: 2em;
 }
 
+.author strong {
+    font-size: 2rem;
+}
