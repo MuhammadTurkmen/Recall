@@ -193,6 +193,7 @@ nav.secondary-nav ul li a {
         color: white;
         font-size: 1.6rem;
         background-color: var(--primary-color);
+        font-weight: bold;
     }
 
 
