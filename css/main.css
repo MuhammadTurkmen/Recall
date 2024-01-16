@@ -263,4 +263,10 @@ nav.secondary-nav ul li a {
         grid-column: 1/3;
     }
 
+
+    /* Testimonial section */
+
+    .testimonials-info  {
+        display: flex;
+    }
 }
