@@ -126,4 +126,5 @@ h2 {
 
 .author strong {
     font-size: 2rem;
+    display: block;
 }
