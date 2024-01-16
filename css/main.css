@@ -132,3 +132,7 @@ h2 {
 .author a {
     color: black;
 }
+
+ul.social-nav {
+    display: flex;
+}
