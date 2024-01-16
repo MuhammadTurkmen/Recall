@@ -303,4 +303,9 @@ nav.secondary-nav ul li a {
         width: 500px;
         left: -100px;
    }
+
+   .hero .right-col {
+        width: 500px;
+
+   }
   }
