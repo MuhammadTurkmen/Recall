@@ -164,7 +164,11 @@ footer a {
     color: black;
 }
 
-nav.footer-nave ul, nav.secondary-nav ul {
+nav.footer-nav ul, nav.secondary-nav ul {
     display: flex;
     gap: 2em;
+}
+
+nav.footer-nav ul {
+    justify-content: right;
 }
