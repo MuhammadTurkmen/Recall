@@ -229,4 +229,24 @@ nav.secondary-nav ul li a {
     .cta-btns {
         justify-content: left;
     }
+
+
+    /* Features SEction */
+
+
+    section.features  {
+        transform: skewY(7deg) translateY(-8em);
+    }
+
+    section.features .wrapper {
+        transform: skewY(-7deg); /* UN - SKEW*/
+    }
+
+    section.features:before {
+        content: '';
+        position: absolute;
+        background: url(../assets/graphic.svg) no-repeat;
+        
+    }
+
 }
