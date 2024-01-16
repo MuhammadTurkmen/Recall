@@ -342,5 +342,9 @@ nav.secondary-nav ul li a {
    .testimonial-info, .testimonial-quote {
         flex: 1;
    }
+
+   .testimonial h2 {
+        margin-top: 0;
+   }
 }
 
