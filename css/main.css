@@ -166,4 +166,5 @@ footer a {
 
 nav.footer-nave ul, nav.secondary-nav ul {
     display: flex;
+    gap: 2em;
 }
