@@ -133,6 +133,12 @@ h2 {
     color: black;
 }
 
+.instagram, .twitter {
+    width: 27px;
+    height: 27px;
+    object-fit: cover;
+}
+
 ul.social-nav {
     display: flex;
 }
