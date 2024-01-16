@@ -109,6 +109,11 @@ h2 {
     font-weight: 300;
 }
 
+.testimonials-quote p {
+    margin-bottom: 2em;
+}
+
+
 .author-pic {
     width: 100%;
     border-radius: 1.2em;
@@ -116,3 +121,4 @@ h2 {
     object-fit: cover;
     margin-bottom: 2em;
 }
+
