@@ -317,4 +317,8 @@ nav.secondary-nav ul li a {
         grid-template-rows: 1fr;
         height: 300px;
    }
-  }
+
+   section.features .wrapper ul li:last-of-type {
+        grid-column: auto;
+   }
+}
