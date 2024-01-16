@@ -194,6 +194,7 @@ nav.secondary-nav ul li a {
         font-size: 1.6rem;
         background-color: var(--primary-color);
         font-weight: bold;
+        padding: .5em .7em;
     }
 
 
