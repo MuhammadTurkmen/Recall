@@ -254,6 +254,7 @@ nav.secondary-nav ul li a {
 
     section.features .wrapper ul {
         display: grid;
+        grid-template-columns: repeat(2, 1fr);
     }
     
 }
