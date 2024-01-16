@@ -204,4 +204,8 @@ nav.secondary-nav ul li a {
         justify-content: space-between;
         gap: 3em;
     }
+
+    section.hero {
+        text-align: left;
+    }
 }
