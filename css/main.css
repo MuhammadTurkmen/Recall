@@ -218,6 +218,7 @@ nav.secondary-nav ul li a {
         position: relative;
         width: 500px;
         height: 600px;
+        overflow: hidden;
     }
     
 }
