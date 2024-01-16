@@ -339,5 +339,8 @@ nav.secondary-nav ul li a {
         margin: 12em 0;
    }
 
+   .testimonial-info, .testimonial-quote {
+        flex: 1;
+   }
 }
 
