@@ -128,3 +128,7 @@ h2 {
     font-size: 2rem;
     display: block;
 }
+
+.author a {
+    color: black;
+}
