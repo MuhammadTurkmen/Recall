@@ -186,7 +186,7 @@ nav.secondary-nav ul li a {
 /* Media Queroes -- Tablet */
 
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 700px) {    
 
     .header-cta {
         display: inherit;
@@ -198,7 +198,6 @@ nav.secondary-nav ul li a {
         border-radius: .3em;
     }
 
-
     .hero .wrapper {
         display: flex;
         justify-content: space-between;
@@ -208,7 +207,7 @@ nav.secondary-nav ul li a {
     section.hero {
         text-align: left;
     }
-    
+
     h1 {
         font-size: 5.1rem;
         line-height: 110%;
@@ -227,5 +226,7 @@ nav.secondary-nav ul li a {
         width: 500px;
     }
 
-
+    .cta-btns {
+        justify-content: left;
+    }
 }
