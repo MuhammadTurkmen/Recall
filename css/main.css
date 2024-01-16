@@ -256,6 +256,7 @@ nav.secondary-nav ul li a {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, 1fr);
+        padding: 7em 0 12em;
     }
     
 }
