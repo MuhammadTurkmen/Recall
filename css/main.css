@@ -259,4 +259,8 @@ nav.secondary-nav ul li a {
         padding: 7em 0 12em;
     }
     
+    section.features .wrapper ul li:last-of-type {
+        grid-column: 1/3;
+    }
+
 }
