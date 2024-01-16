@@ -315,5 +315,6 @@ nav.secondary-nav ul li a {
    section.features .wrapper ul {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: 1fr;
+        height: 300px;
    }
   }
