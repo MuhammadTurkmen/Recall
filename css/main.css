@@ -216,6 +216,7 @@ nav.secondary-nav ul li a {
 
     .hero .right-col {
         position: relative;
+        width: 500px;
     }
     
 }
