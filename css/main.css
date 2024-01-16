@@ -108,10 +108,10 @@ h2 {
     font-family: 'Playfair Display', serif;
     font-weight: 300;
 }
-.testimonials-quote p {
+.testimonial-quote p {
     margin-bottom: 2em;
 }
-.testimonials-quote p {
+.testimonial-quote p {
     margin-bottom: 2em;
 }
 
@@ -281,6 +281,7 @@ nav.secondary-nav ul li a {
 
     .author {
         display: flex;
+        flex-direction: column;
     }
 
 }
