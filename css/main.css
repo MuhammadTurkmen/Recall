@@ -109,7 +109,7 @@ h2 {
     font-weight: 300;
 }
 .testimonials-quote p {
-    
+    margin-bottom: 2em;
 }
 .testimonials-quote p {
     margin-bottom: 2em;
@@ -175,4 +175,9 @@ nav.footer-nav ul {
 
 nav.secondary-nav ul {
     margin-top: 4em;
+}
+
+nav.secondary-nav ul li a {
+    color: #363636;
+    text-decoration: underline;
 }
