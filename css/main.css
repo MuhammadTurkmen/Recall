@@ -182,3 +182,12 @@ nav.secondary-nav ul li a {
     text-decoration: underline;
     font-size: 1.4rem;
 }
+
+/* Media Queroes -- Tablet */
+
+
+@media only screen and (min-width: 700px) {
+    .hero .wrapper {
+        display: flex;
+    }
+}
