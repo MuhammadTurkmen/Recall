@@ -223,6 +223,8 @@ nav.secondary-nav ul li a {
     
     .phone {
         position: absolute;
+        left: 0;
+        width: 500px;
     }
 
 
