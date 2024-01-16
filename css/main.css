@@ -195,6 +195,7 @@ nav.secondary-nav ul li a {
         background-color: var(--primary-color);
         font-weight: bold;
         padding: .5em .7em;
+        border-radius: .3em;
     }
 
 
