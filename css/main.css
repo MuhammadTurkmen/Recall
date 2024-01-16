@@ -105,7 +105,7 @@ section.features strong {
 
 h2 {
     font-size: 2.8rem;
-    font-family: 'playfair Display', serif;
+    font-family: 'Playfair Display', serif;
     font-weight: 300;
 }
 .testimonials-quote p {
@@ -270,4 +270,6 @@ nav.secondary-nav ul li a {
         display: flex;
         gap: 2em;
     }
+
+    
 }
