@@ -208,4 +208,8 @@ nav.secondary-nav ul li a {
     section.hero {
         text-align: left;
     }
+    
+    h1 {
+        font-size: 5.1rem;
+    }
 }
