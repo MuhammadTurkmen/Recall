@@ -108,3 +108,7 @@ h2 {
     font-family: 'playfair Display', serif;
     font-weight: 300;
 }
+
+.author-pic {
+    width: 100%;
+}
