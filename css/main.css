@@ -271,5 +271,7 @@ nav.secondary-nav ul li a {
         gap: 2em;
     }
 
-    
+    .author-pic, .author {
+        flex: 1;
+    }
 }
