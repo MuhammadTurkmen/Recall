@@ -163,3 +163,7 @@ footer {
 footer a {
     color: black;
 }
+
+nav.footer-nave ul, nav.secondary-nav ul {
+    display: flex;
+}
