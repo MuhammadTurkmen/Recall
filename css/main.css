@@ -354,6 +354,12 @@ nav.secondary-nav ul li a {
     animation: subtleMove 2s alternate-reverse infinite ease-in-out;
 }
 
+.recording, .flare, .flare2 {
+    animation: subtleMove2 2s alternate-reverse infinite ease-in-out;
+}
+
+
+
 @keyframes subtleMove {
     from {
         transform: translateY(0);
