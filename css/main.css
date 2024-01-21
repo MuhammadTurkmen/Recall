@@ -387,4 +387,8 @@ nav.secondary-nav ul li a {
     from {
         transform: translateY(30px);
     }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }
