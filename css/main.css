@@ -387,6 +387,10 @@ nav.secondary-nav ul li a {
     animation-delay: .3s;
 }
 
+.cta-btns {
+    animation-delay: .6s;
+}
+
 @keyframes fadeInIp {
     from {
         transform: translateY(30px);
