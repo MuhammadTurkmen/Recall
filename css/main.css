@@ -392,10 +392,13 @@ nav.secondary-nav ul li a {
 }
 
 .features .wrapper ul li:nth-last-of-type(1) {
-    animation-delay: .6s;
+    animation-delay: .8s;
 }
 .features .wrapper ul li:nth-last-of-type(2) {
     animation-delay: .7s;
+}
+.features .wrapper ul li:nth-last-of-type(3) {
+    animation-delay: .6s;
 }
 @keyframes fadeInUp {
     from {
