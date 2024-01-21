@@ -383,6 +383,10 @@ nav.secondary-nav ul li a {
     opacity: 0;
 }
 
+.subhead {
+    animation-delay: .3s;
+}
+
 @keyframes fadeInIp {
     from {
         transform: translateY(30px);
