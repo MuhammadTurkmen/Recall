@@ -379,5 +379,5 @@ nav.secondary-nav ul li a {
 }
 
 .features .wrapper ul li, h1, .subhead, .cta-btns {
-    animation: fadeInUp;
+    animation: fadeInUp 1s forwards;
 }
