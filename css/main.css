@@ -351,5 +351,5 @@ nav.secondary-nav ul li a {
 /* Animations */
 
 .phone {
-    animation: subtleMove 2s;
+    animation: subtleMove 2s alternate-reverse ;
 }
