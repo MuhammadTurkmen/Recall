@@ -382,3 +382,9 @@ nav.secondary-nav ul li a {
     animation: fadeInUp 1s forwards;
     opacity: 0;
 }
+
+@keyframes fadeInIp {
+    from {
+        transform: translateY(30px);
+    }
+}
