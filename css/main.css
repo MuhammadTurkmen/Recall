@@ -377,3 +377,7 @@ nav.secondary-nav ul li a {
         transform: translateY(25px);
     }
 }
+
+.features .wrapper ul li, h1, .subhead, .cta-btns {
+    animation: fadeInUp;
+}
