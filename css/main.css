@@ -391,7 +391,9 @@ nav.secondary-nav ul li a {
     animation-delay: .6s;
 }
 
-@keyframes fadeInIp {
+
+
+@keyframes fadeInUp {
     from {
         transform: translateY(30px);
     }
