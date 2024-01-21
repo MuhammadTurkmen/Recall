@@ -391,7 +391,9 @@ nav.secondary-nav ul li a {
     animation-delay: .6s;
 }
 
-
+.features .wrapper ul li:nth-last-of-type(1) {
+    animation-delay: .6s;
+}
 
 @keyframes fadeInUp {
     from {
