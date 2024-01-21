@@ -353,3 +353,9 @@ nav.secondary-nav ul li a {
 .phone {
     animation: subtleMove 2s alternate-reverse infinite ease-in-out;
 }
+
+@keyframes subtleMove {
+    from {
+        transform: translateY(0);
+    }
+}
