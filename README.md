@@ -9,3 +9,5 @@
 
 # Tablet
 ![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/86c95549-31ca-4f4e-8d8b-e05905fa124f)
+
+![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/2b9c2232-244a-43c9-98cb-931398d8fd35)
