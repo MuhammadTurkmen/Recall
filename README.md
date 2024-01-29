@@ -6,3 +6,6 @@
 ![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/1999b548-e998-43fd-8c72-c78692f97efb)
 
 ![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/7fd9283c-7010-433c-a1b6-efc59bf81d8d)
+
+# Tablet
+![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/86c95549-31ca-4f4e-8d8b-e05905fa124f)
