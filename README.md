@@ -17,3 +17,6 @@
 # Desktop 
 ![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/3ad1cdc9-521c-48b4-ac46-be499d43d74a)
 
+![image](https://github.com/MuhammadTurkmen/Recall/assets/142389953/628bbc8c-b5d3-4481-be3e-c2daa8ba17b9)
+
+
